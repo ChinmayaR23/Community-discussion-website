@@ -1,0 +1,79 @@
+.answer{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-left: 600px;
+  width: 500px;
+  margin-right: 600px;
+  margin-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(176, 137, 98);
+}
+.img{
+  margin-top:1%;
+  display:column;
+  margin-left: 10%;
+  flex-direction: column;
+  width: 100px;
+  position: fixed;
+  
+}
+.Cpp{
+  float:top; 
+  width: 200px;
+  display: flex;
+  position:relative;
+  flex-direction: column;
+  
+}
+.image_link{
+  display: inline-block;
+  position: relative;
+  margin-left:20px;
+  height:150px;
+  width:150px;
+  border-radius: 2rem;
+}
+.home_pag{
+  margin-bottom: 100%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+}
+body{
+  margin: 0;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 50%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
+.wrap img{
+    
+    height: 200px;
+    width: 200px;
+}
+.interest{
+    width:420px ;
+    background-color: rgb(219, 252, 254);
+}
+.inp{
+    border-color: white;
+    border-width: 2px;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+.com{
+    position: absolute;
+    margin-right: 1000px;
+}

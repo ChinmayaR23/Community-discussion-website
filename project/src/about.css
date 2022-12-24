@@ -1,0 +1,24 @@
+.mainContent{
+    margin-left: auto;
+	background-color:#c9e8e6;
+    height: 100%;
+}
+p{
+    font-size: 25px;
+}
+body{
+    background-color:#c9e8e6;
+}
+.about{
+    background-color:  #1f5156;
+    color:#f5b921;
+}
+.head3{
+    color: #f5b921;
+    text-decoration: underline overline dotted blue;
+    font-size: large;
+    margin-right: 80%;
+}
+.head2{
+    margin-right: 80%;
+}
